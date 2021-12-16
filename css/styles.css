@@ -1,0 +1,62 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: #FFF373;
+    font-family: 'Montserrat', sans-serif;
+}
+#area_logo img{
+    width: 1335px;
+    margin-left: 10px;
+}   
+#link{
+padding: 1px;
+font-family: 'EB+Garamond', sans-serif;
+top: 50px ;
+position: absolute;
+margin-left: 300px;
+}
+#link a:link, a:visited{
+text-decoration: none;
+color: black;
+margin-left: 100px;
+}
+#link a:hover{
+background-color:  #BFB637 ;
+}
+#link a{
+padding: 8px 12px;
+font-size: 20px;
+}
+#voce_sabia {
+    background-color:  #FFFFFF;
+    border-radius: 10px;
+    width: 70%;
+    height: fit-content;
+    margin: 10px auto;
+    padding: 20px;
+    display: column;
+}
+#tag {
+    background-color:  #FFFFFF;
+    border-radius: 10px;
+    width: 50%;
+    height: fit-content;
+    margin: 10px auto;
+    padding: 5px;
+    display: column;
+}
+#tag img{
+    width: 300px;
+    margin-left: 190px;
+}   
+
+footer {
+    background-color: #BFB637;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 10px;
+    margin: 0 10px;
+    border-radius: 10px 10px 0px 0px;
+}
